@@ -8,7 +8,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnust
 
 ---
 
-## A propos
+## @fa[user] A propos
 
 @snap[fragment]
 @ul[](false)
@@ -32,7 +32,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnust
 
 ---
 
-## Comment ça se passe ?
+## @fa[file-invoice-dollar] Comment ça se passe ?
 
 Deux fonctionnements principaux :
 @ul
