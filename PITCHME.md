@@ -20,9 +20,9 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 # Pourquoi faire du freelance ?
 
 - Autonomie
-- possibilité d'avancer sur des side-projects
-- diversité de missions
-- pour l'argent ?
+- Possibilité d'avancer sur des side-projects
+- Diversité de missions
+- Pour l'argent ?
 
 ---
 
@@ -32,9 +32,12 @@ Deux fonctionnements principaux :
 - **au forfait** : payé à la prestation
 - **en régie** : payé à la journée de travail
 
+Tips:
+@ol
 - Tip 1 : Tarif journalier forfait > tarif journalier régie
 - Tip 2 : Démarrer par un forfait pour la confiance, puis régie
 - Tip 3 : Si possible en régie, pas plus de 4 jours/semaine
+@olend
 
 ---
 
@@ -49,12 +52,12 @@ Deux fonctionnements principaux :
 
 # Que faire en inter-mission ?
 
-- **se former !!** : apprendre un nouveau langage/framework
-- développer des sides-projects
-- contribuer à des projets open-source
-- partir en vacances !
-- le prendre tranquille : le rush reviendra bien assez tôt
-- éventuellement chercher du boulot s'il y a urgence
+- **Se former !!** : apprendre un nouveau langage/framework
+- Développer des sides-projects
+- Contribuer à des projets open-source
+- Partir en vacances !
+- Le prendre tranquille : le rush reviendra bien assez tôt
+- Eventuellement chercher du boulot s'il y a urgence
 
 ---
 
@@ -62,37 +65,40 @@ Deux fonctionnements principaux :
 
 Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
-- gestion administrative simplifiée
-- pas de frais de structure si pas de chiffre d'affaire
-- avantageux pour un développeur car CA = bénéfices
-- un compte joint suffit
+- Gestion administrative simplifiée
+- Pas de frais de structure si pas de chiffre d'affaire
+- Avantageux pour un développeur car CA = bénéfices
+- Un compte joint suffit
 
-=> Possible de démarrer dès aujourd'hui
+=> Possibilité de démarrer dès aujourd'hui
 
 ---
 
 # Outils
 
-- créer dès aujourd'hui votre portfolio : pour être référencé dans google, c'est un laboratoire d'expérimentation et une vitrine son travail
-- outils de facturation. Ex : j'utilise https://freelancer-app.fr
-- forums. Ex: [Pragmatic Entrepreneur](https://forum.pragmaticentrepreneurs.com)
+- Créer dès maintenant votre portfolio :
+  - pour être référencé dans google,
+  - un laboratoire d'expérimentation
+  - une vitrine son travail
+- Outils de facturation. Ex : j'utilise https://freelancer-app.fr
+- Forums. Ex: [Pragmatic Entrepreneur](https://forum.pragmaticentrepreneurs.com)
 
 ---
 
 # Le freelance c'est pas toujours facile
 
-- engagement moindre dans les projets : prestataire <> employé
-- clients qui ne paient pas
-- risque/irrégularité des revenus
-- pas d'avantages sociaux (congés payés, mutuelle etc.)
-- difficultés pour se loger
-- sentiment d'isolation
+- Engagement moindre dans les projets : prestataire <> employé
+- Clients qui ne paient pas
+- Risque/irrégularité des revenus
+- Pas d'avantages sociaux (congés payés, mutuelle etc.)
+- Difficultés pour se loger
+- Sentiment d'isolation
 
 ---
 
 # Mais il existe des paliatifs
 
-- plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
+- Plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
 - Portage salarial
 - [WeMind](https://www.wemind.io) : mutuelle et autres protections pour freelances
 - Aller au Coworking. Ex: [Tau](https://tau.so/) à Toulouse
