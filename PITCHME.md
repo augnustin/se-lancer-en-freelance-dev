@@ -17,7 +17,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 
 ---
 
-# Pourquoi faire du freelance ?
+## Pourquoi faire du freelance ?
 
 - Autonomie
 - Possibilité d'avancer sur des side-projects
@@ -26,7 +26,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 
 ---
 
-# Comment ça se passe ?
+## Comment ça se passe ?
 
 Deux fonctionnements principaux :
 - **au forfait** : payé à la prestation
@@ -41,7 +41,7 @@ Tips:
 
 ---
 
-# Comment trouver des missions ?
+## Comment trouver des missions ?
 
 - Afficher clairement ses compétences : pas de "je peux tout faire"
 - Se présenter comme Freelance sur LinkedIn
@@ -50,7 +50,7 @@ Tips:
 
 ---
 
-# Que faire en inter-mission ?
+## Que faire en inter-mission ?
 
 - **Se former !!** : apprendre un nouveau langage/framework
 - Développer des sides-projects
@@ -61,7 +61,7 @@ Tips:
 
 ---
 
-# Structure légale
+## Structure légale
 
 Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
@@ -74,7 +74,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-# Outils
+## Outils
 
 - Créer dès maintenant votre portfolio :
   - pour être référencé dans google,
@@ -85,7 +85,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-# Le freelance c'est pas toujours facile
+## Le freelance c'est pas toujours facile
 
 - Engagement moindre dans les projets : prestataire <> employé
 - Clients qui ne paient pas
@@ -96,7 +96,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-# Mais il existe des paliatifs
+## Mais il existe des paliatifs
 
 - Plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
 - Portage salarial
@@ -105,7 +105,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-# S'aggréger en communauté : Happy Dev
+## S'aggréger en communauté : Happy Dev
 
 Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant qu'indépendants pour se soutenir et répondre à des appels à projets plus ambitieux.
 
@@ -115,7 +115,7 @@ Si cela vous intéresse, venez participer à un Happy Drink.
 
 ---
 
-# Questions ?
+## Questions ?
 
 Merci pour l'attention.
 
