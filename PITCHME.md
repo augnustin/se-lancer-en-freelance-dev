@@ -90,32 +90,38 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ## Outils
 
+@ul
 - Créer dès maintenant votre portfolio :
   - pour être référencé dans google,
   - un laboratoire d'expérimentation
   - une vitrine son travail
 - Outils de facturation. Ex : j'utilise https://freelancer-app.fr
 - Forums. Ex: [Pragmatic Entrepreneur](https://forum.pragmaticentrepreneurs.com)
+@ulend
 
 ---
 
 ## Le freelance c'est pas toujours facile
 
+@ul
 - Engagement moindre dans les projets : prestataire <> employé
 - Clients qui ne paient pas
 - Risque/irrégularité des revenus
 - Pas d'avantages sociaux (congés payés, mutuelle etc.)
 - Difficultés pour se loger
 - Sentiment d'isolation
+@ulend
 
 ---
 
 ## Mais il existe des paliatifs
 
+@ul
 - Plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
 - Portage salarial
 - [WeMind](https://www.wemind.io) : mutuelle et autres protections pour freelances
 - Aller au Coworking. Ex: [Tau](https://tau.so/) à Toulouse
+@ulend
 
 ---
 
