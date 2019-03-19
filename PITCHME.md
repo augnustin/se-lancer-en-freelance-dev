@@ -10,7 +10,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 
 ## A propos
 
-@ul
+@ul[square-bullets](false)
 - Dernier emploi en CDI en 2012
 - Création d'une startup pendant 2 ans : [Copass](https://copass.org)
 - Freelance depuis 5 ans
