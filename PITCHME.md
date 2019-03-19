@@ -43,10 +43,10 @@ Tips:
 
 # Comment trouver des missions ?
 
-- Avoir des compétences clairement affichées
+- Afficher clairement ses compétences : pas de "je peux tout faire"
 - Se présenter comme Freelance sur LinkedIn
 - S'inscrire sur les plateformes dédiées. Ex: [Malt](https://www.malt.fr)
-- Sortir et rencontrer des développeurs : > 50% des missions viennent de mon réseau
+- Sortir et rencontrer du monde : > 50% des missions viennent de mon réseau
 
 ---
 
