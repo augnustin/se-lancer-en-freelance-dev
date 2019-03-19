@@ -41,7 +41,8 @@ Deux fonctionnements principaux :
 @ulend
 
 @snap[fragment]
-###Tips:
+
+### Tips:
 
 @ol
 - Tarif journalier forfait > tarif journalier régie
