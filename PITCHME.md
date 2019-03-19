@@ -10,19 +10,23 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 
 ## A propos
 
+@ul
 - Dernier emploi en CDI en 2012
 - Création d'une startup pendant 2 ans : [Copass](https://copass.org)
 - Freelance depuis 5 ans
 - Développeur web fullstack JS & Ruby
+@ulend
 
 ---
 
 ## Pourquoi faire du freelance ?
 
+@ul
 - Autonomie
 - Possibilité d'avancer sur des side-projects
 - Diversité de missions
 - Pour l'argent ?
+@ulend
 
 ---
 
