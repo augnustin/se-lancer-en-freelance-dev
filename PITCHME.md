@@ -45,10 +45,11 @@ Deux fonctionnements principaux :
 ### Tips:
 
 @ol
-- Tarif journalier forfait > tarif journalier régie
+- Tarif journalier forfait **>** tarif journalier régie
 - Démarrer par un forfait pour la confiance, puis régie
 - Si possible en régie, pas plus de 4 jours/semaine
 @olend
+
 @snapend
 
 
