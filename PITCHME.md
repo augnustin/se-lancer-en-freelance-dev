@@ -35,35 +35,41 @@ par [Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnust
 ## Comment ça se passe ?
 
 Deux fonctionnements principaux :
+@ul
 - **au forfait** : payé à la prestation
 - **en régie** : payé à la journée de travail
+@ulend
 
 Tips:
 @ol
-- Tip 1 : Tarif journalier forfait > tarif journalier régie
-- Tip 2 : Démarrer par un forfait pour la confiance, puis régie
-- Tip 3 : Si possible en régie, pas plus de 4 jours/semaine
+1. Tarif journalier forfait > tarif journalier régie
+2. Démarrer par un forfait pour la confiance, puis régie
+3. Si possible en régie, pas plus de 4 jours/semaine
 @olend
 
 ---
 
 ## Comment trouver des missions ?
 
+@ul
 - Afficher clairement ses compétences : pas de "je peux tout faire"
 - Se présenter comme Freelance sur LinkedIn
 - S'inscrire sur les plateformes dédiées. Ex: [Malt](https://www.malt.fr)
 - Sortir et rencontrer du monde : > 50% des missions viennent de mon réseau
+@ulend
 
 ---
 
 ## Que faire en inter-mission ?
 
+@ul
 - **Se former !!** : apprendre un nouveau langage/framework
 - Développer des sides-projects
 - Contribuer à des projets open-source
 - Partir en vacances !
 - Le prendre tranquille : le rush reviendra bien assez tôt
 - Eventuellement chercher du boulot s'il y a urgence
+@ulend
 
 ---
 
@@ -71,10 +77,12 @@ Tips:
 
 Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
+@ul
 - Gestion administrative simplifiée
 - Pas de frais de structure si pas de chiffre d'affaire
 - Avantageux pour un développeur car CA = bénéfices
 - Un compte joint suffit
+@ulend
 
 => Possibilité de démarrer dès aujourd'hui
 
