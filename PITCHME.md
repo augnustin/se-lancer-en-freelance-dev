@@ -41,10 +41,11 @@ Deux fonctionnements principaux :
 @ulend
 
 Tips:
+
 @ol
-1. Tarif journalier forfait > tarif journalier régie
-2. Démarrer par un forfait pour la confiance, puis régie
-3. Si possible en régie, pas plus de 4 jours/semaine
+- 1. Tarif journalier forfait > tarif journalier régie
+- 2. Démarrer par un forfait pour la confiance, puis régie
+- 3. Si possible en régie, pas plus de 4 jours/semaine
 @olend
 
 ---
