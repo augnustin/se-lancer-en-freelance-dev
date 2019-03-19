@@ -40,6 +40,7 @@ Deux fonctionnements principaux :
 - **en régie** : payé à la journée de travail
 @ulend
 
+@snap[fragment]
 Tips:
 
 @ol
@@ -47,6 +48,8 @@ Tips:
 - 2. Démarrer par un forfait pour la confiance, puis régie
 - 3. Si possible en régie, pas plus de 4 jours/semaine
 @olend
+@snapend
+
 
 ---
 
