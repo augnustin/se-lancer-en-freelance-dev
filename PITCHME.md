@@ -21,7 +21,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnust
 
 ---
 
-## Pourquoi faire du freelance ?
+## @fa[dna] Pourquoi faire du freelance ?
 
 @ul
 - Autonomie
@@ -53,7 +53,7 @@ Deux fonctionnements principaux :
 
 ---
 
-## Comment trouver des missions ?
+## @fa[search-dollar] Comment trouver des missions ?
 
 @ul
 - Afficher clairement ses compétences : pas de "je peux tout faire"
@@ -64,7 +64,7 @@ Deux fonctionnements principaux :
 
 ---
 
-## Que faire en inter-mission ?
+## @fa[umbrella-beach] Que faire en inter-mission ?
 
 @ul
 - **Se former !!** : apprendre un nouveau langage/framework
@@ -77,11 +77,10 @@ Deux fonctionnements principaux :
 
 ---
 
-## Structure légale
+## @fa[balance-scale] Structure légale
 
 Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
-@snap[fragment]
 @ul
 - Gestion administrative simplifiée
 - Pas de frais de structure si pas de chiffre d'affaire
@@ -89,12 +88,13 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 - Un compte joint suffit
 @ulend
 
+@snap[fragment]
 => Possibilité de démarrer dès aujourd'hui
 @snapend
 
 ---
 
-## Outils
+## @fa[tools] Outils
 
 @ul
 - Créer dès maintenant votre portfolio :
@@ -107,7 +107,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-## Le freelance c'est pas toujours facile
+## @fa[frown] Le freelance c'est pas toujours facile
 
 @ul
 - Engagement moindre dans les projets : prestataire <> employé
@@ -120,7 +120,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-## Mais il existe des paliatifs
+## @fa[smile] Mais il existe des paliatifs
 
 @ul
 - Plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
@@ -131,7 +131,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 ---
 
-## S'aggréger en communauté : Happy Dev
+## @fa[users] S'aggréger en communauté : Happy Dev
 
 Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant qu'indépendants pour se soutenir et répondre à des appels à projets plus ambitieux.
 
@@ -141,7 +141,7 @@ Si cela vous intéresse, venez participer à un Happy Drink.
 
 ---
 
-## Questions ?
+## @fa[question-circle] Questions ?
 
 Merci pour l'attention.
 
