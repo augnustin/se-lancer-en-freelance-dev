@@ -8,7 +8,7 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 
 ---
 
-# A propos
+## A propos
 
 - Dernier emploi en CDI en 2012
 - Création d'une startup pendant 2 ans : [Copass](https://copass.org)
