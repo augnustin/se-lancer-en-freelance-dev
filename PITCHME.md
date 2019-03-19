@@ -29,12 +29,12 @@ par [Augustin Riedinger](https://augustin-riedinger.fr).
 # Comment ça se passe ?
 
 Deux fonctionnements principaux :
-- le forfait : payé à la prestation
-- la régie : payé à la journée de travail
+- **au forfait** : payé à la prestation
+- **en régie** : payé à la journée de travail
 
-Tip 1 : Tarif journalier forfait > tarif journalier régie
-Tip 2 : Démarrer par un forfait pour la confiance, puis régie
-Tip 3 : Si possible en régie, pas plus de 4 jours/semaine
+- Tip 1 : Tarif journalier forfait > tarif journalier régie
+- Tip 2 : Démarrer par un forfait pour la confiance, puis régie
+- Tip 3 : Si possible en régie, pas plus de 4 jours/semaine
 
 ---
 
@@ -49,7 +49,7 @@ Tip 3 : Si possible en régie, pas plus de 4 jours/semaine
 
 # Que faire en inter-mission ?
 
-- **se former !!** apprendre un nouveau langage/framework
+- **se former !!** : apprendre un nouveau langage/framework
 - développer des sides-projects
 - contribuer à des projets open-source
 - partir en vacances !
