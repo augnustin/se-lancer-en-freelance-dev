@@ -2,6 +2,6 @@ theme : moon
 theme-override : assets/css/PITCHME.css
 highlight : hybrid
 background : assets/image/lukas_blazek.jpg
-transition : none
+transition : fade
 published : true
 footnote : "In browser we trust @ Wild Code School - https://gitpitch.com/augnustin/in-browser-we-trust"
