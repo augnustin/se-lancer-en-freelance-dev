@@ -41,7 +41,7 @@ Deux fonctionnements principaux :
 @ulend
 
 @snap[fragment]
-Tips:
+###Tips:
 
 @ol
 - Tarif journalier forfait > tarif journalier régie
@@ -81,6 +81,7 @@ Tips:
 
 Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
+@snap[fragment]
 @ul
 - Gestion administrative simplifiée
 - Pas de frais de structure si pas de chiffre d'affaire
@@ -89,6 +90,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 @ulend
 
 => Possibilité de démarrer dès aujourd'hui
+@snapend
 
 ---
 
