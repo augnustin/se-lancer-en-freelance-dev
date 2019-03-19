@@ -4,18 +4,18 @@
 
 Le 21.03.2019 @ Wild Code School Toulouse
 
-par [Augustin Riedinger](https://augustin-riedinger.fr).
+par [Augustin Riedinger](https://augustin-riedinger.fr) [@fa[twitter]](https://twitter.com/augnustin).
 
 ---
 
 ## A propos
 
-@ul[square-bullets](false)
+@snap[fragment]
 - Dernier emploi en CDI en 2012
 - Création d'une startup pendant 2 ans : [Copass](https://copass.org)
 - Freelance depuis 5 ans
 - Développeur web fullstack JS & Ruby
-@ulend
+@snapend
 
 ---
 
