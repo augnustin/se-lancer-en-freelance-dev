@@ -36,8 +36,8 @@ par [Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnust
 
 Deux fonctionnements principaux :
 @ul
-- **au forfait** : payé à la prestation
-- **en régie** : payé à la journée de travail
+- **Au forfait** : payé à la prestation
+- **En régie** : payé à la journée de travail
 @ulend
 
 @snap[fragment]
@@ -61,7 +61,7 @@ Deux fonctionnements principaux :
 - Afficher clairement ses compétences : pas de "je peux tout faire"
 - Se présenter comme Freelance sur LinkedIn
 - S'inscrire sur les plateformes dédiées. Ex: [Malt](https://www.malt.fr)
-- Sortir et rencontrer du monde : > 50% des missions viennent de mon réseau
+- Sortir et rencontrer du monde : > 50% des missions viennent du réseau
 @ulend
 
 ---
@@ -99,10 +99,10 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 ## @fa[tools] Outils
 
 @ul
-- Créer dès maintenant votre portfolio :
+- Créer dès maintenant un portfolio :
   - pour être référencé dans google,
-  - un laboratoire d'expérimentation
-  - une vitrine son travail
+  - comme laboratoire d'expérimentation
+  - et comme vitrine de son travail
 - Outils de facturation. Ex : j'utilise https://freelancer-app.fr
 - Forums. Ex: [Pragmatic Entrepreneur](https://forum.pragmaticentrepreneurs.com)
 @ulend
@@ -126,8 +126,8 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 @ul
 - Plateformes d'inter-médiation. Ex: [Malt](https://www.malt.fr)
-- Portage salarial
-- [WeMind](https://www.wemind.io) : mutuelle et autres protections pour freelances
+- Portage salarial.
+- Mutuelle et autres protections pour freelances. Ex: [WeMind](https://www.wemind.io)
 - Aller au Coworking. Ex: [Tau](https://tau.so/) à Toulouse
 @ulend
 
