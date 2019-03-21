@@ -59,6 +59,7 @@ Deux fonctionnements principaux :
 
 @ul
 - Afficher clairement ses compétences : pas de "je peux tout faire"
+- Avoir de l'expérience
 - Se présenter comme Freelance sur LinkedIn
 - S'inscrire sur les plateformes dédiées. Ex: [Malt](https://www.malt.fr)
 - Sortir et rencontrer du monde : > 50% des missions viennent du réseau
@@ -137,9 +138,9 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant qu'indépendants pour se soutenir et répondre à des appels à projets plus ambitieux.
 
-La branche Toulouse vient de s'ouvrir.
+La cellule Toulouse vient de s'ouvrir.
 
-Si cela vous intéresse, venez participer à un Happy Drink.
+@box[bg-orange text-white rounded demo-box-pad](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/) <small>[Prochaine rencontre Jeudi 28 Mars](https://www.facebook.com/events/968405010033172/)</small>.)
 
 ---
 
