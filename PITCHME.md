@@ -138,7 +138,7 @@ Pour démarrer, le statut d'auto-entrepreneur est parfaitement adapté :
 
 Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant qu'indépendants pour se soutenir et répondre à des appels à projets plus ambitieux.
 
-La cellule Toulouse vient de s'ouvrir.
+La cellule [Toulouse](https://www.facebook.com/HappydevToulouse/) vient de s'ouvrir.
 
 @box[bg-green text-white rounded](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/), [prochaine rencontre Jeudi 28 Mars](https://www.facebook.com/events/968405010033172/)).
 
