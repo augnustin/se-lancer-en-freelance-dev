@@ -140,7 +140,7 @@ Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant
 
 La cellule Toulouse vient de s'ouvrir.
 
-@box[bg-orange text-white rounded demo-box-pad](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/):
+@box[bg-blue text-white rounded](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/):
 
 [Prochaine rencontre Jeudi 28 Mars](https://www.facebook.com/events/968405010033172/))
 
