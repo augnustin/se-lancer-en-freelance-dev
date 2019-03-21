@@ -140,7 +140,7 @@ Le réseau [Happy-Dev](https://www.happy-dev.fr) propose de se regrouper en tant
 
 La cellule Toulouse vient de s'ouvrir.
 
-@box[bg-green text-white rounded](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/), [prochaine rencontre Jeudi 28 Mars](https://www.facebook.com/events/968405010033172/))
+@box[bg-green text-white rounded](Si cela vous intéresse, venez participer à un [Happy Drink](https://www.facebook.com/events/968405010033172/), [prochaine rencontre Jeudi 28 Mars](https://www.facebook.com/events/968405010033172/)).
 
 ---
 
@@ -148,4 +148,4 @@ La cellule Toulouse vient de s'ouvrir.
 
 Merci pour l'attention.
 
-[Augustin Riedinger](https://augustin-riedinger.fr)
+[Augustin Riedinger](https://augustin-riedinger.fr) - [@fa[twitter] @augnustin](https://twitter.com/augnustin)
